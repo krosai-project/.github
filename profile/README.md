@@ -13,7 +13,7 @@ The name "Krosai" is a combination of two elements: "Kros-" and "-ai", taken fro
 ## Future Plans
 Our future plans include:
 1. Developing the **Krossit** project with functionalities that reinforce user experience and capability.
-2. Enhancing the **Krosai** project to offer more functions and features for AI models.
+2. Enhance the **Krosai** project with more AI model support and more functional features.
 
 ## Contributions
 We welcome contributions from the community! To contribute, please adhere to the following guidelines:
