@@ -15,5 +15,3 @@ Our future plans include the development of **Krossit** and the continuous explo
 ## Contribute
 
 We welcome all submissions. We're excited to have you join us in our vision to empower cross-platform harmony with artificial intelligence!
-
-Translated with www.DeepL.com/Translator (free version)
