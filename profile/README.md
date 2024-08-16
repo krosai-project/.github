@@ -1,5 +1,5 @@
 # Krosai Project
-Welcome to **Krosai**, a cross-platform AI library built with Kotlin Multiplatform. It bridges the gap between multiple platforms and empowers Kotlin with Artificial Intelligence (AI).
+> Welcome to **Krosai**, a cross-platform AI library built with Kotlin Multiplatform. It bridges the gap between multiple platforms and empowers Kotlin with Artificial Intelligence (AI).
 
 ## About the name
 The name "Krosai" is a combination of two elements: "Kros-" and "-ai", taken from the initial letters of "Cross-platform" and "Artificial Intelligence".
